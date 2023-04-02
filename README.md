@@ -2,4 +2,4 @@
 
 HTML CSS kullanılarak yapılan google sitesi 
 
-![](githupp-ss/google.png)
+![](ss/google.png)
